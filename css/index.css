@@ -1,0 +1,9 @@
+#myCarousel img {
+    width: 532px;
+    height: 328px;
+    margin: 0 auto;
+}
+
+#myCarousel {
+    padding-bottom: 30px;
+}

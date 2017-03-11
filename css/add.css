@@ -1,0 +1,51 @@
+.box{
+    margin-left: 75%
+}
+.form{
+    display: flex;
+    flex-flow: wrap;
+    width: auto;
+    margin: 8%;
+    background-color: #EAE1CA;
+    border-radius: 10px;
+}
+.blockcon{
+    width: auto;
+    margin:15px;
+}
+.info{
+    flex: 3;
+    padding-top: 10px;
+    border-style: dashed;
+}
+textarea {
+min-height: 60px;
+overflow-y: auto;
+word-wrap:break-word
+
+    }
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    text-align: center
+}
+.cont{
+    text-align: center;
+    margin-bottom:9%;
+}
+.vasia{
+    background-color: #EAE1CA;
+    border-style: dashed;
+    border-radius: 10px;
+    width: 75%;
+    margin:7%;
+
+}
+.text{
+    resize: none;
+}
+.wit{
+    width: 50%
+}
